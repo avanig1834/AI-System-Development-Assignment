@@ -8,7 +8,7 @@ Follow these steps to set up the project on your local machine.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Harshvardhan2164/AI-Systems-Development.git
+    git clone https://github.com/avanig1834/AI-Systems-Development.git
     cd Assignment-1/
     ```
 
